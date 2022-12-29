@@ -5,6 +5,25 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+th{
+    text-transform: uppercase;
+    color: darkblue;
+    background-color: lightyellow;
+    text-align: center;
+    margin: 15px;
+}
+
+tr{
+    
+    margin: 20px;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+    margin: 20px;
+}
+
 nav{
     text-align: left;
     font-size: 15px;
