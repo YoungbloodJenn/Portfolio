@@ -1,41 +1,35 @@
-body{
-    background-color:aliceblue;
-    font-size: 20;
-    color: darkblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-}
-th{
-    text-transform: uppercase;
-    color: darkblue;
-    background-color: lightyellow;
-    text-align: center;
-    margin: 15px;
-}
-
-tr{
-    
-    margin: 20px;
-    padding: 10px;
-}
-
-td{
-    padding: 10px;
-    margin: 20px;
-}
-
 nav{
     text-align: left;
     font-size: 15px;
+    color: #222021;
 }
+
+body{
+    background-color: #eeeee;
+    font-size: 20;
+    color: #101010;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 h1{
     text-align: center;
     text-decoration: underline;
 }
-h5{
+h2{
     text-align: center;
-    color: black;
 }
+
+h3 {
+    text-transform: uppercase;
+    color: darkred;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: 0px 200px 0px 300px;
+}
+
 h3
     {text-align: center;
 }
@@ -48,3 +42,22 @@ div {
     padding-bottom: 80px;
     padding-left: 200px;
   }
+
+th{
+    text-transform: uppercase;
+    color: whitesmoke;
+    background-color: darkblue;
+    text-align: center;
+    margin: 15px;
+}
+
+tr{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+    margin: 20px;
+}
